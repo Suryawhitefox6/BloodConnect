@@ -13,6 +13,6 @@ By using this website Reciever can obtain the Blood Donors around their location
 Currently we made the Prototype of this website. Consolidated to the few cities in the State of Andhra Pradesh.
 We believe that the prototype can be the solution to this Problem of Blood Supply Shortage.
 We still develop this website.
-In future we can come with fully fucntional website
+In future we can come with fully fucntional website.
 
 
